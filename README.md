@@ -14,10 +14,15 @@
 
 **Tài liệu tham chiếu:** `tuan_4_javascript_basics/01_basics_introduction.md` → `04_control_structures.md`
 
+## Bắt đầu nhanh
+
+Mở **[index.html](./index.html)** — hướng dẫn chạy từng file.
+
 ## Cấu trúc dự án
 
 ```
 PBT_07/
+├── index.html
 ├── README.md
 ├── answers.md
 ├── var_let_const.js        # A1 — kiểm chứng var/let/const
@@ -56,13 +61,17 @@ start guess_number.html
 - [x] `guess_number.html` + `guess.js` — Bài B3
 - [x] `fizzbuzz.js` — Bài B4
 - [x] `restaurant_bill.js` — Câu C2
-- [ ] Folder `screenshots/` — *chưa có*
+- [x] Folder `screenshots/` — hướng dẫn chụp console output
 - [x] Video OBS — [YouTube](https://youtu.be/lKRO0ZmLhKM)
 - [x] ≥ 4 commits
 
 ## Video thực hành OBS
 
 https://youtu.be/lKRO0ZmLhKM
+
+## Cải thiện gần đây
+
+- Thêm `index.html`, `screenshots/README.md`
 
 ---
 
